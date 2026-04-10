@@ -13,3 +13,4 @@ The video includes:
 * User interaction features
 
 This is part of the OS Kernel Design Challenge submission.
+<br> Detailed explanation pdf uploaded successfully. 
